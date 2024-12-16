@@ -25,10 +25,10 @@ Admins can access and update user account information.
 - Database: MySQL
 
 # Preview
-![image](https://github.com/user-attachments/assets/daf0fa79-083e-4f6d-9851-77c8abc800ab)
-![Screenshot 2024-12-16 111228](https://github.com/user-attachments/assets/c75f8c4f-7776-4813-8a7d-90340f56371a)
-![Screenshot 2024-12-16 111243](https://github.com/user-attachments/assets/cb3a891d-2f8f-4684-ba0f-8ed1531c9c62)
-![Screenshot 2024-12-16 111334](https://github.com/user-attachments/assets/e5b3b7b8-55cc-420c-a43f-f618a234bcfe)
+<img src=https://github.com/user-attachments/assets/daf0fa79-083e-4f6d-9851-77c8abc800ab alt="drawing" width="700"/>
+<img src=https://github.com/user-attachments/assets/c75f8c4f-7776-4813-8a7d-90340f56371a alt="drawing" width="700"/>
+<img src=https://github.com/user-attachments/assets/cb3a891d-2f8f-4684-ba0f-8ed1531c9c62 alt="drawing" width="700"/>
+<img src=https://github.com/user-attachments/assets/e5b3b7b8-55cc-420c-a43f-f618a234bcfe alt="drawing" width="700"/>
 
 
 
